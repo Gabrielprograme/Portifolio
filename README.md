@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Sou um entusiasta de tecnologia e aspirante a Desenvolvedor Full Stack . Atualmente estou focado em construir soluções eficientes e aprender novas tecnologias para resolver problemas do mundo real.
 
-- 🌱 A aprender constantemente sobre **React + TS**
+- 🌱 A aprender constantemente sobre **Desenvolvimento Fullstack**
 
 ---
 
