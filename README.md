@@ -31,8 +31,8 @@ Aplicaçõa de Gestão Financeira ( Estou cuidando do frontend).
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TEU_USER_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USER_AQUI&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielprograme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielprograme&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ---
